@@ -1,0 +1,27 @@
+2021-12-22 19:46:01,274  INFO [main] Log:12 - HomePage opened
+2021-12-22 19:46:01,488  INFO [main] Log:12 - Entered item name in search box
+2021-12-22 19:46:04,180  INFO [main] Log:12 - Search button clicked
+2021-12-22 19:46:04,204  INFO [main] Log:12 - Search Result page
+2021-12-22 19:46:06,506  INFO [main] Log:12 - Category selected
+2021-12-22 19:46:06,578  INFO [main] Log:12 - Product name :
+ Allen Solly
+Men's Jacket
+2021-12-22 19:46:06,607  INFO [main] Log:12 - Product price :
+ 1,499
+2021-12-22 19:46:06,795  INFO [main] Log:12 - Product opened in new tab
+2021-12-22 19:46:06,806  INFO [main] Log:12 - ProductPage opened
+2021-12-22 19:46:06,821  INFO [main] Log:12 - Switched to new tab
+2021-12-22 19:46:11,889  INFO [main] Log:12 - Size selected
+2021-12-22 19:46:14,227  INFO [main] Log:12 - Product added to cart
+2021-12-22 19:46:14,264  INFO [main] Log:12 - CartPage opened
+2021-12-22 19:46:15,893  INFO [main] Log:12 - Cart button clicked
+2021-12-22 19:46:16,318 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-22 19:46:16,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-12-22 19:46:16,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-22 19:46:16,323 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-22 19:46:16,323 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-12-22 19:46:16,452 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-22 19:46:16,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-12-22 19:46:16,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-12-22 19:46:16,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-12-22 19:46:16,453 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/LENOVO/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
